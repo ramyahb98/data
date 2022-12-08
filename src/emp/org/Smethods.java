@@ -40,6 +40,8 @@ public class Smethods {
 	System.out.println(replace);
 	String replaceAll = d.replaceAll(d, "bramya");
 	System.out.println(replaceAll);
+	System.out.println("data");
+	System.out.println("ramya");
 	
 	
 	
